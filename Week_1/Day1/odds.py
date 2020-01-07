@@ -15,4 +15,5 @@ number = 1
 while number <= N:
     if(number % 2 == 1):
         print(number)
+        
 number += 1
