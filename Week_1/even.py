@@ -10,9 +10,10 @@ for number in range(1,N+1):
 
 #using a while loop to perform the same function
 print("using a while loop: ")
-N = 0
+# N = 0
 counter = 1
 while counter <= N:
     if (counter % 2 == 0):
         print(counter)
-        counter += 1
+
+    counter += 1
