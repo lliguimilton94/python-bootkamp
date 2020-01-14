@@ -13,6 +13,7 @@ def search(x, list):
     """
     for index in range(0,len(list)):
         if list[index] == x:
+
             return index
 
 my_list = [10, 8, 7, 19, 42, 2]
